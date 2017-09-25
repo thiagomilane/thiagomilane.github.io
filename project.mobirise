@@ -172,7 +172,7 @@
             "showArrow": true,
             "imageSize": "47",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sem-ttulo-2000x968.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -186,15 +186,19 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
