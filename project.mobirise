@@ -113,7 +113,7 @@
               "alt": "Mobirise",
               "link": "thiagomilane.github.io",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
